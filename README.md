@@ -1,7 +1,9 @@
 # Recetario
 
-#Ing.Sistemas Computacionales
+---
 
-##Proyecto de la Jornada de Lenguas Extrajeras(Ingles 3)
+> Proyecto de la Jornada de Lenguas Extrajeras(Ingles 3)
+#### Ing.Sistemas Computacionales
 
-### https://luispuent3.github.io/Recetario/#
+
+{ https://luispuent3.github.io/Recetario/# }
